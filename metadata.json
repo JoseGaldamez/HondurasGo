@@ -1,0 +1,7 @@
+{
+  "name": "Explora Honduras - Pasaporte Catracho",
+  "description": "App móvil para rastrear viajes en Honduras, pasaporte virtual con sellos, medallas por región, reseñas y mapa interactivo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
